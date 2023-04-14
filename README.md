@@ -1,23 +1,14 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM2302-9x-1_BMC21M0x1_V1.0.png" width="480" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMC36M0x1_V1.0.png" width="240" height="240"> 
 </div> 
 
-BM2302-9x-1 
+BMC36M0x1
 ===========================================================
 
-The BM2302-9x-1 is a Sub-1G OOK receiver transparent transmission module from the Best Modules, which uses the I2C/UART communication method. This document describes the Arduino Lib function of the BM2302-9x-1 and how to install the Arduino Lib. The examples demonstrate how to use the BMC23M0x1 module to pair with the Sub-1G OOK transmitter transparent transmission module BMC21M0x1, data exchange and other functions.
+The Best Modules BMC36M0x1 is a Sub-1G FSK transceiver transparent transmission module, which uses the UART communication method. This document describes the Arduino Lib functions of the BMC36M0x1 and how to install the Arduino Lib. The provided examples demonstrate how to pair the modules to form a Peer network topology or a Star network topology to implement pairing, wireless communication and other functions.
 
-#### Applicable types:
-<div align=center>
 
-|Part No.   |Description                                        |
-|:---------:|:-------------------------------------------------:|
-|BM2302-9x-1|Sub-1G OOK receiver transparent transmission module|
-|BMC23M0x1  |On-board BM2302-9x-1 module                        |
-
-</div> 
-
-This library can be installed via the Arduino Library manager. Search for **BM2302-9x-1**. 
+This library can be installed via the Arduino Library manager. Search for **BMC36M0x1**. 
 
 Repository Contents
 -------------------
@@ -30,7 +21,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM2302-9x-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm2302-9x-1.html#tab-product2 )** - Arduino Library Description.
+* **[BMC36M0x1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmc36m0x1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
