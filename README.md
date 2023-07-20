@@ -27,7 +27,7 @@ Version History
 -------------------
 
 * **V1.0.1** - Initial public release.
-* **V1.0.2** - Improve wireless communication speed,increase functions for'bool isPaired()' and 'uint8_t getShortAddress(uint16_t shortAddr[])'.
+* **V1.0.2** - Improve wireless communication speed,increase functions for 'bool isPaired()' and 'uint8_t getShortAddress(uint16_t shortAddr[])'.
   
 License Information
 -------------------
