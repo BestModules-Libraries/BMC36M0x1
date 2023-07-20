@@ -27,8 +27,8 @@ Version History
 -------------------
 
 * **V1.0.1** - Initial public release.
-* **V1.0.2** - Change the function parameters.
-* 
+* **V1.0.2** - Improve wireless communication speed,increase functions for'bool isPaired()' and 'uint16_t getShortAddress()'.
+  
 License Information
 -------------------
 
