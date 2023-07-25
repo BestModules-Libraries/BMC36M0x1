@@ -26,10 +26,12 @@ Documentation
 Version History  
 -------------------
 
-* **V1.0.1** - Initial public release.
-* **V1.0.2** - Improve wireless communication speed,
-             - Add functions:bool isPaired(),uint8_t getShortAddress (uint16_t shortAddr []);
-  
+* **V1.0.1**  
+&emsp;&emsp;- Initial public release.
+* **V1.0.2**  
+&emsp;&emsp;- Improve wireless communication speed.  
+&emsp;&emsp;- Add functions:bool isPaired(),uint8_t getShortAddress (uint16_t shortAddr []);
+
 License Information
 -------------------
 
